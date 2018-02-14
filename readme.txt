@@ -7,29 +7,3 @@ hello i am using git
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-exit
-i am adding new line
